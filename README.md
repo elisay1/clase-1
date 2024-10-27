@@ -64,6 +64,7 @@ Este es el punto de entrada de la aplicación, donde se define la función `main
 - **Modularidad**: Mantener cada parte del código separada según su responsabilidad hace que el proyecto sea fácil de entender y modificar.
 - **Reutilización de Código**: Usar widgets y funciones reutilizables facilita el mantenimiento y reduce errores.
 - **Consistencia**: Definir constantes para los colores, estilos y otras propiedades permite mantener una apariencia uniforme en toda la aplicación.
+- **Routes**: [Puedes trabajar con tus rutas personalizadas](href="https://github.com/elisay1/proyect_flutter/blob/main/Routes.md)
 
 > [!NOTE]
 > Estas buenas prácticas aseguran que el proyecto sea escalable, mantenible y fácil de entender por otros desarrolladores que trabajen en él en el futuro.
